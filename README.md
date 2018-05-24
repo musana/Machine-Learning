@@ -1,7 +1,7 @@
 ## Keras ile basit bir ysa uygulaması
 
-Daha detaylı bilgi için;
-[pythondersleri](http://www.pythondersleri.com)
+**diyabet.py** 
+diagnosing diabetic disease using machine learning with diabet dataset 
 
 **psoBeale.py**
 Finding min point of Beale Function using Particle Swarm Optimization.
