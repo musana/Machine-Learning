@@ -1,4 +1,4 @@
-## Keras ile basit bir ysa uygulaması
+## Description of Scripts
 
 **diyabet.py** 
 diagnosing diabetic disease using machine learning with diabet dataset 
